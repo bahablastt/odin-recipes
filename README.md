@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe Website
+A website for recipes, testing my skills.
